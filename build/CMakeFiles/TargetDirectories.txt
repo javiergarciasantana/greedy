@@ -1,0 +1,3 @@
+/home/usuario/practicas/CyA/p11_greedy/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/practicas/CyA/p11_greedy/build/CMakeFiles/edit_cache.dir
+/home/usuario/practicas/CyA/p11_greedy/build/CMakeFiles/monedas.dir

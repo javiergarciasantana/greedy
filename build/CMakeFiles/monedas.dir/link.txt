@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/monedas.dir/src/monedas.cc.o  -o monedas 
